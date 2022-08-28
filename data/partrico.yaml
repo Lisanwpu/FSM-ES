@@ -1,0 +1,5 @@
+train: ../partrico/train/images
+val: ../partrico/vaild/images
+
+nc: 9
+names: ['CheckBox', 'Checkbox', 'Icon', 'Image', 'InputBox', 'RadioButton', 'Switch', 'Text', 'Button']

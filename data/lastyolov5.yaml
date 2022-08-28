@@ -1,0 +1,5 @@
+train: ../lastyolov5/images/train/
+val: ../lastyolov5/images/val/
+
+nc: 8
+names: ['CheckBox', 'Checkbox', 'Icon', 'Image', 'InputBox', 'RadioButton', 'Switch', 'Text']

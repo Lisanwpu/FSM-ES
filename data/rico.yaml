@@ -1,0 +1,5 @@
+train: ../rico/images/train
+val: ../rico/images/val
+
+nc: 8
+names: ['CheckBox', 'Checkbox', 'Icon', 'Image', 'InputBox', 'RadioButton', 'Switch', 'Text']

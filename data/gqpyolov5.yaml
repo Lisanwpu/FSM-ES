@@ -1,0 +1,5 @@
+train: ../gqpyolov5/train/images
+val: ../gqpyolov5/valid/images
+
+nc: 9
+names: ['CheckBox', 'Checkbox', 'Icon', 'Image', 'InputBox', 'RadioButton', 'Switch', 'Text', 'Button']
